@@ -310,7 +310,7 @@ All of the plugins for this playground have been pre-installed on your Jenkins s
 
 - Fill in the fields with the following information:
     - Name: **AWS_DEFAULT_REGION**
-    - Value: **eu-west-2**
+    - Value: **us-east-1**
 
 ![](readme_images/aws_region.png)
 - Click save and we are done with the Jenkins configuration!

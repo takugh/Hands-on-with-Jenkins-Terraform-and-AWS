@@ -7,11 +7,11 @@ variable "subnet_id" {
 }
 
 variable "region" {
-  default = "eu-west-2"
+  default = "us-east-1"
 }
 
 variable "UNIQUE_ANIMAL_IDENTIFIER" {
-  default = "playground"
+  default = "dog"
 }
 variable "ARTIFACT" {
   
